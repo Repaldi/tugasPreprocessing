@@ -1,0 +1,11 @@
+-- Tugas Data Warehouse dan Data Mining--
+"Melakukan Preprocessing Data Sentimen Masyarakat pada 
+Sosial Media Twitter mengenai #TragediKemanusiaanKM50 "
+
+Bahasa Pemograman			 : Python 
+Integrated Development Environment	 : Jupyter
+
+Nama  : Repaldi Handi Saputra
+NIM   : F1E118017
+
+
